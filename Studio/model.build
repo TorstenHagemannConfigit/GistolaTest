@@ -2,7 +2,8 @@
 <comp:VBProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI"
     xmlns:comp="http://virtubuil.com/schemas/comp.ecore"
     uuid="_8a7OIbbkEeK305n3PlGMhg" name="Build Model"
-    modelType="enterprise_2d" modelTemplateVersion="1">
+    projectName="GistolaPatch" modelType="enterprise_2d"
+    modelTemplateVersion="1">
   <externalResources uuid="_ItFJUGNCEeSOoIlj3yU-IQ"
       name="export_document.png" relativePath="graphics/export_document.png"/>
   <externalResources uuid="_JTm90GNCEeSOoIlj3yU-IQ"
