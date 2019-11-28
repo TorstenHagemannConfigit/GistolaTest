@@ -19,18 +19,18 @@
       <columns uuid="_QMy6QBH1Eeqej_vrAW7tRA" name="Col1"
           visibility="100" databaseAlias="Table_Column">
         <cells uuid="_ZioBMBH1Eeqej_vrAW7tRA" value="a"/>
-        <cells uuid="_aODj0BH1Eeqej_vrAW7tRA" value="b"/>
         <cells uuid="_bT8N0BH1Eeqej_vrAW7tRA" value="c"/>
         <cells uuid="_cZLXkBH1Eeqej_vrAW7tRA" value="d"/>
         <cells uuid="_c7hPoBH1Eeqej_vrAW7tRA" value="e"/>
+        <cells uuid="_z2OQ0BH1Eeqej_vrAW7tRA" value="f"/>
       </columns>
       <columns uuid="_RSPfYBH1Eeqej_vrAW7tRA" name="Col2"
           visibility="100" databaseAlias="Table_Column">
         <cells uuid="_ZiooQBH1Eeqej_vrAW7tRA" value="1"/>
-        <cells uuid="_aOEK4BH1Eeqej_vrAW7tRA" value="2"/>
         <cells uuid="_bT8N0RH1Eeqej_vrAW7tRA" value="3"/>
-        <cells uuid="_cZL-oBH1Eeqej_vrAW7tRA" value="4"/>
+        <cells uuid="_cZL-oBH1Eeqej_vrAW7tRA" value="44"/>
         <cells uuid="_c7hPoRH1Eeqej_vrAW7tRA" value="5"/>
+        <cells uuid="_z2OQ0RH1Eeqej_vrAW7tRA" value="6"/>
       </columns>
     </children>
   </logic>
